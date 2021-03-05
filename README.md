@@ -1,6 +1,6 @@
 # awesome-doge
 
-First open an account on dogepay.io
+First open an account on [faucetpay.io](https://faucetpay.io/?r=1358186)
 
 Haveing multiple address is a good practice to stay anonymous
 
