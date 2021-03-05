@@ -1,5 +1,7 @@
 # awesome-doge
 
+First open an account on dogepay.io
+
 Haveing multiple address is a good practice to stay anonymous
 
 Do not tell what is your binance account
