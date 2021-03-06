@@ -1,6 +1,6 @@
 # awesome-doge
 
-Before you proceed you must have a good antivirus like Kaspersky Total Security
+Before you proceed you must have a good antivirus like Kaspersky Total Security, because there are a lot of faucets that uses illegal code to access your computer
 
 First open an account on [faucetpay.io](https://faucetpay.io/?r=1358186)
 
