@@ -11,3 +11,10 @@ IMPORTANT
 * Scam sites disapear after a while or they add a big amount to wdthdraw
 * Stay anonymous on Discord
 * Use a fake account to open accounts on faucets
+
+The list am giving is working without adblocks, which means there is a first security limit but you can see that they all use js scripts that are weired
+
+# AD BLOCKS
+
+https://faucetofbob.xyz/flist/
+
