@@ -1,5 +1,7 @@
 # awesome-doge
 
+Before you proceed you must have a good antivirus like Kaspersky Total Security
+
 First open an account on [faucetpay.io](https://faucetpay.io/?r=1358186)
 
 IMPORTANT
