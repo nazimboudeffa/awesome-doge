@@ -18,3 +18,7 @@ The list am giving is working without adblocks, which means there is a first sec
 
 https://faucetofbob.xyz/flist/
 
+
+# What to do with Doge
+
+https://www.spendyourdogecoins.cf/
