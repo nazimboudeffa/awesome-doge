@@ -36,3 +36,7 @@ https://www.spendyourdogecoins.cf/
 ```
 .val 100 ldoge doge
 ```
+
+# ALTCOINS
+
+http://altmarkets.io/ exchange altcoins
