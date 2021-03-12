@@ -22,3 +22,17 @@ https://faucetofbob.xyz/flist/
 # What to do with Doge
 
 https://www.spendyourdogecoins.cf/
+
+# Commands
+
+```
+.mystats bj
+```
+
+```
+.swap 100 ldoge doge
+```
+
+```
+.val 100 ldoge doge
+```
