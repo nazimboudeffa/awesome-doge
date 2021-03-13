@@ -25,7 +25,8 @@ https://www.spendyourdogecoins.cf/
 
 # Wallet Bot
 
-https://github.com/nazimboudeffa/walletbot-docs/
+* https://github.com/Bill48105/wallet
+* https://github.com/nazimboudeffa/walletbot-docs/
 
 ```
 .mystats bj
