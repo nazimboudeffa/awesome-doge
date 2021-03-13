@@ -23,7 +23,9 @@ https://faucetofbob.xyz/flist/
 
 https://www.spendyourdogecoins.cf/
 
-# Commands
+# Wallet Bot
+
+https://github.com/nazimboudeffa/walletbot-docs/
 
 ```
 .mystats bj
