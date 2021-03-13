@@ -28,18 +28,6 @@ https://www.spendyourdogecoins.cf/
 * https://github.com/Bill48105/wallet
 * https://github.com/nazimboudeffa/walletbot-docs/
 
-```
-.mystats bj
-```
-
-```
-.swap 100 ldoge doge
-```
-
-```
-.val 100 ldoge doge
-```
-
 # ALTCOINS
 
 http://altmarkets.io/ exchange altcoins
