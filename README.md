@@ -31,3 +31,8 @@ https://www.spendyourdogecoins.cf/
 # ALTCOINS
 
 http://altmarkets.io/ exchange altcoins
+
+# ONLINE CASINOS
+
+* luckyfish.io
+* stake.com
