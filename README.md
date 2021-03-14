@@ -37,6 +37,6 @@ http://altmarkets.io/ exchange altcoins
 * luckyfish.io
 * stake.com
 
-# BIG PLAYERS
+# TWITCH
 
 * https://www.twitch.tv/teuf
