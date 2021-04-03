@@ -37,6 +37,6 @@ http://altmarkets.io/ exchange altcoins
 * luckyfish.io
 * stake.com
 
-# COMUNITIES
+# COMMUNITIES
 
 * https://hempyshub.com/coinlist/litedogepos/
