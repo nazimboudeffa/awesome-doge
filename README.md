@@ -40,3 +40,8 @@ http://altmarkets.io/ exchange altcoins
 # COMMUNITIES
 
 * https://hempyshub.com/coinlist/litedogepos/
+
+# NFT
+
+* opensea.io
+* rarible.com
